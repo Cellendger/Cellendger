@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cellendger
-- 👀 I’m interested in blockchain 
+- 👀 I’m interested in blockchain and ethereum
 - 🌱 I’m currently learning ethereum
 
 <!---
